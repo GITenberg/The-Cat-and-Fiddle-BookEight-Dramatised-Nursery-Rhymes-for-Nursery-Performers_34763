@@ -1,0 +1,44 @@
+_repo: The-Cat-and-Fiddle-BookEight-Dramatised-Nursery-Rhymes-for-Nursery-Performers_34763
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Bell, Florence Eveleen Eleanore Olliffe, Lady
+    aliases:
+    - Bell, Hugh, Mrs.
+    - Bell, Florence Evelyn Eleanore, Dame
+    - Bell, Lady Florence
+    birthdate: 1851
+    deathdate: 1930
+    gutenberg_agent_id: '26738'
+    url: http://www.gutenberg.org/2009/agents/26738
+    wikipedia: http://en.wikipedia.org/wiki/Florence_Bell
+  - agent_name: Richmond, Florence Elsa Bell, Lady
+    alias: Richmond, Mrs. Herbert
+    birthdate: 1880
+    gutenberg_agent_id: '37204'
+    url: http://www.gutenberg.org/2009/agents/37204
+description: ''
+gutenberg_issued: '2010-12-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34763'
+  lccn: '23026052'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PN'
+- !lcsh 'Nursery rhymes'
+- !lcc 'PZ'
+- !lcsh 'Children''s plays'
+tableOfContents: The cat and the fiddle -- Lucy Locket -- Polly put the kettle on
+  -- Goosey-Gander -- Oranges and lemons -- Ride-a-cock-horse -- Little Miss Muffet
+  -- Humpty Dumpty.
+title: 'The Cat and Fiddle Book
+
+  Eight Dramatised Nursery Rhymes for Nursery Performers'
+url: http://www.gutenberg.org/ebooks/34763
